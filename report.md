@@ -22,5 +22,5 @@ public class Main {
 ## Результаты
 
 1. 100% тестов безуспешны (проведен всего лишь 1 тест)
-2. Ссылки на баг-репорты
+2. https://github.com/goncharoov/homework-precision/issues/1
 
